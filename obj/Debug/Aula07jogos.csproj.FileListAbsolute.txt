@@ -1,0 +1,7 @@
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.exe.config
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.exe
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.pdb
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.exe
+C:\Users\william.dresch\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.pdb
